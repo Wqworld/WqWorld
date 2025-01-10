@@ -6,8 +6,8 @@
 
 Saya juga telah mendapatkan beberapa sertifikat penghargaan pada saat saya dalam proses belajar :.<br>
 
-* [Sertifikat Dasar pemrograman menjadi software]()
-* [Sertifikat Berkenalan dengan logika]()
-* [Sertifikat Dasar pemrograman JavaScript]() <br>
+* [Sertifikat Dasar pemrograman menjadi software](https://www.dicoding.com/certificates/JLX19147GP72)
+* [Sertifikat Berkenalan dengan logika](https://www.dicoding.com/certificates/N9ZO9DYNRXG5)
+* [Sertifikat Dasar pemrograman JavaScript](https://www.dicoding.com/certificates/JLX148086X72) <br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
