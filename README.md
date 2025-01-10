@@ -10,4 +10,9 @@ Saya juga telah mendapatkan beberapa sertifikat penghargaan pada saat saya dalam
 * [Sertifikat Berkenalan dengan logika](https://www.dicoding.com/certificates/N9ZO9DYNRXG5)
 * [Sertifikat Dasar pemrograman JavaScript](https://www.dicoding.com/certificates/JLX148086X72) <br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Wqworld&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wqworld&layout=compact&theme=algolia"/>
+</a>
+</p>
