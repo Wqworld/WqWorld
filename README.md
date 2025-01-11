@@ -1,3 +1,7 @@
+<div class="organization" align="center" style="max-width: 5rem">
+<img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" />
+</div>
+
 ## Hi Temen-Temen 👋
 
 ### Perkenalkan nama saya **Waqqir Humaid Al-Qais**.<br>
