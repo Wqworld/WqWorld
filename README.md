@@ -20,3 +20,19 @@ Saya juga telah mendapatkan beberapa sertifikat penghargaan pada saat saya dalam
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Wqworld&layout=compact&theme=algolia"/>
 </a>
 </p>
+<br>
+
+<div class="lang" align="center">
+💡 Saat Ini sedang Belajar 💡 <br> <br>
+
+  
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</div>
