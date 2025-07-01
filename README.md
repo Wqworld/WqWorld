@@ -6,7 +6,7 @@
 
 ### Perkenalkan nama saya **Waqqir Humaid Al-Qais**.<br>
 
-**Saya seorang Pelajar kelas 11 di Sekolah SMKN 1 Katapang sebagai junior Software Engineer saya hanya menyimpan PR saya di github agar meudah di akses untuk di akses nantinya **<br>
+**Saya seorang Pelajar kelas 11 di Sekolah SMKN 1 Katapang sebagai junior Software Engineer saya hanya menyimpan PR saya di github sebagai akses untuk orang lain dapat mengetahui tentang saya lebih dalam**<br>
 
 <br>
 
