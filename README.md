@@ -2,13 +2,26 @@
 <img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 2rem" />
 </div>
 
-## Hi Temen-Temen 👋
 
-### Perkenalkan nama saya **Waqqir humaid**.<br>
+<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
+<h3 align="center">Full Stack Web Dev Enthusiast</h3>
 
-**Saya seorang Pelajar kelas 11 di Sekolah SMKN 1 Katapang sebagai junior Software Engineer saya hanya menyimpan PR saya di github sebagai akses untuk orang lain dapat mengetahui tentang saya lebih dalamm**<br>
+```json
+{
+  "about_me": {
+    "headline": "Web Developer",
+    "description": "I am a web developer passionate about building impactful web applications using modern technologies.",
+    "interests": [
+      "Exploring new things in the world of the web",
+      "APIs",
+      "UI/UX",
+      "Application Performance"
+    ],
+    "tagline": "Keep committing even if it's only 1 line."
+  }
+}
+```
 
-<br>
 
 <div class="lang" align="center">
 💡 Saat Ini sedang Belajar 💡 <br> <br>
