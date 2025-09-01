@@ -1,10 +1,16 @@
-<div class="organization" align="center" style="max-width: 5rem">
-<img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 7rem" />
+<div class="organization" align="right" style="max-width: 2rem">
+<img src="https://i.ibb.co/j5sm3CW/PPLG-nobg.png" alt="PPLG-nobg" style="width: 2rem" />
 </div>
 
 ## Hi Temen-Temen 👋
 
-### Perkenalkan nama saya **Waqqir Humaid Al-Qais**.<br>
+### Perkenalkan nama saya **
+<div align="center">
+    <h2>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=C3C3C3&center=true&background=FFFFFF00&random=true&width=500&lines=Building+The+Future%2C+One+Commit+at+a+Time!"/>
+    </h2>
+</div>
+**.<br>
 
 **Saya seorang Pelajar kelas 11 di Sekolah SMKN 1 Katapang sebagai junior Software Engineer saya hanya menyimpan PR saya di github sebagai akses untuk orang lain dapat mengetahui tentang saya lebih dalamm**<br>
 
