@@ -3,23 +3,24 @@
 </div>
 
 
-<h1 align="center">Hello World! I'm Kevin Sinatria Budiman</h1>
-<h3 align="center">Full Stack Web Dev Enthusiast</h3>
+<h1 >Hello There! I'm Waqqir Humaid Al Qais</h1>
+<h3 >Student Enthusiast</h3>
 
 ```json
 {
   "about_me": {
-    "headline": "Web Developer",
-    "description": "I am a web developer passionate about building impactful web applications using modern technologies.",
+    "headline": "Web Dev Enthusiast",
+    "description": "I enjoy turning ideas into functional and user-friendly websites.",
     "interests": [
-      "Exploring new things in the world of the web",
+      "Exploring new web technologies",
       "APIs",
-      "UI/UX",
-      "Application Performance"
+      "UI/UX design",
+      "Frontend development"
     ],
-    "tagline": "Keep committing even if it's only 1 line."
+    "tagline": "Code with purpose, not just syntax."
   }
 }
+
 ```
 
 
