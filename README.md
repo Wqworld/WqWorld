@@ -4,13 +4,7 @@
 
 ## Hi Temen-Temen 👋
 
-### Perkenalkan nama saya **
-<div align="center">
-    <h2>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=C3C3C3&center=true&background=FFFFFF00&random=true&width=500&lines=Building+The+Future%2C+One+Commit+at+a+Time!"/>
-    </h2>
-</div>
-**.<br>
+### Perkenalkan nama saya **Waqqir humaid**.<br>
 
 **Saya seorang Pelajar kelas 11 di Sekolah SMKN 1 Katapang sebagai junior Software Engineer saya hanya menyimpan PR saya di github sebagai akses untuk orang lain dapat mengetahui tentang saya lebih dalamm**<br>
 
