@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 >Hello There! I'm Waqqir Humaid Al Qais</h1>
+<h1 >Hello There! I'm Waqqir Humaid Al Qaiss</h1>
 <h3 >Student Enthusiast</h3>
 
 ```json
